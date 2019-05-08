@@ -409,7 +409,7 @@ section {
 .intro-table-hover-two {
 	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
 	transition: background-image 0.3s ease, background-position 0.3s;
-	background-image: url('../img/number.jpg');
+	background-image: url('../img/mempar.jpg');
 }
 
 .intro-table-hover-two h4 {
@@ -420,7 +420,7 @@ section {
 }
 
 .intro-table-hover-two:hover {
-	background-image: url('../img/number.jpg');
+	background-image: url('../img/mempar.jpg');
 	background-position: 50% 50%;
 }
 
@@ -460,7 +460,7 @@ section {
 .intro-table-hover-three {
 	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
 	transition: background-image 0.3s ease, background-position 0.3s;
-	background-image: url('../img/nothingness.jpg');
+	background-image: url('../img/relativityr.jpg');
 }
 
 .intro-table-hover-three h4 {
@@ -471,7 +471,7 @@ section {
 }
 
 .intro-table-hover-three:hover {
-	background-image: url('../img/nothingness.jpg');
+	background-image: url('../img/relativityr.jpg');
 	background-position: 50% 50%;
 }
 
@@ -511,7 +511,7 @@ section {
 .intro-table-hover-four {
 	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
 	transition: background-image 0.3s ease, background-position 0.3s;
-	background-image: url('../img/dyson.jpg');
+	background-image: url('../img/bioremr.jpg');
 }
 
 .intro-table-hover-four h4 {
@@ -522,7 +522,7 @@ section {
 }
 
 .intro-table-hover-four:hover {
-	background-image: url('../img/dyson.jpg');
+	background-image: url('../img/bioremr.jpg');
 	background-position: 50% 50%;
 }
 
@@ -562,7 +562,7 @@ section {
 .intro-table-hover-five {
 	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
 	transition: background-image 0.3s ease, background-position 0.3s;
-	background-image: url('../img/tardigrades.jpg');
+	background-image: url('../img/immjelr.jpg');
 }
 
 .intro-table-hover-five h4 {
@@ -573,7 +573,7 @@ section {
 }
 
 .intro-table-hover-five:hover {
-	background-image: url('../img/tardigrades.jpg');
+	background-image: url('../img/immjelr.jpg');
 	background-position: 50% 50%;
 }
 
@@ -613,7 +613,7 @@ section {
 .intro-table-hover-six {
 	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
 	transition: background-image 0.3s ease, background-position 0.3s;
-	background-image: url('../img/diseases.jpg');
+	background-image: url('../img/pyror.jpg');
 }
 
 .intro-table-hover-six h4 {
@@ -624,7 +624,7 @@ section {
 }
 
 .intro-table-hover-six:hover {
-	background-image: url('../img/diseases.jpg');
+	background-image: url('../img/pyror.jpg');
 	background-position: 50% 50%;
 }
 
@@ -652,6 +652,7 @@ section {
 	-ms-transform: scale(1);
 	transform: scale(1);
 }
+
 .intro-table-hover-seven {
 	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
 	transition: background-image 0.3s ease, background-position 0.3s;
